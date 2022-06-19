@@ -16,6 +16,6 @@ define("DB_PASSWORD", "sasa");
 define("DB_ENCODE", "utf8");
 
 //nombre del proyecto
-define("proyecto", "2022");
+define("proyecto", "Transport");
  
  ?>
